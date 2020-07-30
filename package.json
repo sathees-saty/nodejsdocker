@@ -1,0 +1,22 @@
+{
+  "name": "nodejsdocker",
+  "version": "1.0.0",
+  "description": "Docker CI DI Azure WebApps",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathees-saty/nodejsdocker.git"
+  },
+  "author": "Sathees Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathees-saty/nodejsdocker/issues"
+  },
+  "homepage": "https://github.com/sathees-saty/nodejsdocker#readme"
+}

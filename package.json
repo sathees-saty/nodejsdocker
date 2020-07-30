@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/sathees-saty/nodejsdocker/issues"
   },
-  "homepage": "https://github.com/sathees-saty/nodejsdocker#readme"
+  "homepage": "https://github.com/sathees-saty/nodejsdocker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
